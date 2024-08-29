@@ -1,0 +1,17 @@
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\bin\Debug\net8.0-windows\appCompilador.exe
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\bin\Debug\net8.0-windows\appCompilador.deps.json
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\bin\Debug\net8.0-windows\appCompilador.runtimeconfig.json
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\bin\Debug\net8.0-windows\appCompilador.dll
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\bin\Debug\net8.0-windows\appCompilador.pdb
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\obj\Debug\net8.0-windows\appCompilador.Form1.resources
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\obj\Debug\net8.0-windows\appCompilador.Properties.Resources.resources
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\obj\Debug\net8.0-windows\appCompilador.csproj.GenerateResource.cache
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\obj\Debug\net8.0-windows\appCompilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\obj\Debug\net8.0-windows\appCompilador.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\obj\Debug\net8.0-windows\appCompilador.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\obj\Debug\net8.0-windows\appCompilador.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\obj\Debug\net8.0-windows\appCompilador.dll
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\obj\Debug\net8.0-windows\refint\appCompilador.dll
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\obj\Debug\net8.0-windows\appCompilador.pdb
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\obj\Debug\net8.0-windows\appCompilador.genruntimeconfig.cache
+C:\Users\cliente\Desktop\Compilador-2024-Pedro_branch\Compilador-2024-Pedro_branch\obj\Debug\net8.0-windows\ref\appCompilador.dll
